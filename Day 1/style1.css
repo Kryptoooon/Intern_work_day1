@@ -1,0 +1,17 @@
+.box{
+    border: 25px solid red;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 30%;
+    padding-bottom: 5%;
+}
+
+#btn1{
+    text-align: center;
+    padding-left: 26%;
+    padding-right: 26%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
